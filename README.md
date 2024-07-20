@@ -11,5 +11,5 @@ processing the store's transaction data.
 <br>The store manager also provided transaction data from 2013 to 2019 in the form of CSV (comma-separated
 value) with data_retail.csv with 100,000 rows of data.
 <br>
-<br>Database Link:
+<br>Dataset Link:
 <br>https://storage.googleapis.com/dqlab-dataset/data_retail.csv
